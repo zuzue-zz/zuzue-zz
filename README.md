@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I think I am cute and funny ...**
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuzue-zz)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/myintzu.thinn.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="myintzu.thinn.12" height="30" width="40" /></a>
